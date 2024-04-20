@@ -1,5 +1,5 @@
-# SMS Wallet
+## Text-Based Crypto Haven
 
-The SMS Wallet is a lightweight non-custodial wallet solution for users to quickly create a wallet bound to their phone number, receive (or purchase) inexpensive NFTs, showcase their NFTs, and to hold a small amount of crypto assets. The wallet primarily operates on a mobile browser, and is recoverable using text message verification codes in combination with a QR code saved by the user during the wallet’s creation.
+This project provides a simple, mobile-first way to manage digital assets. Users can establish a secure wallet linked to their phone number, acquire and display unique digital collectibles, and store small amounts of cryptocurrency. The system hinges on a mobile browser interface and leverages text message verification along with a user-saved QR code for wallet recovery. 
 
-Please checkout [our wiki](https://github.com/polymorpher/sms-wallet/wiki) for a more complete description and technical details.
+For detailed information and technical specifications, consult the [project wiki](https://github.com/polymorpher/sms-wallet/wiki). 
